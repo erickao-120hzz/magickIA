@@ -1,0 +1,40 @@
+@media(max-width: 1024px) {
+
+    .container {
+        padding: 20px;
+    }
+
+    .container h1 {
+        text-align: center;
+    }
+
+    .container .filtros {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 16px;
+    }
+
+    .container .filtros .categoria-cartas,
+    .container- .filtros .preco-cartas,
+    .container .fitrols .btn-filtrar {
+        width: 65%;
+    }
+
+    .container .filtros .btn-filtrar {
+        align-self: center;
+    }
+
+    .container .cartas {
+        justify-content: center;
+    }
+}
+
+@media(max-width: 480px) {
+
+    .container .filtros .categorias-cartas,
+    .container .filtros .preco-cartas,
+    .container .filtros .btn-filtrar {
+        width: 100%;
+    }
+}
