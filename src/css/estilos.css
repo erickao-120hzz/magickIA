@@ -53,9 +53,10 @@ body {
 	padding: 16px 13px;
 	border-radius: 2px;
 	border: 2px solid #6528d3;
-	background-color: #f2eefa;
-	color: #130234;
+	color: #f2eefa;
 	height: 52px;
+	background-color: #241f1f56;
+
 }
 
 .container select:focus,
@@ -86,6 +87,7 @@ body {
 
 .container .filtros .btn-filtrar:hover {
 	background-color: #33008f;
+
 }
 
 .container .cartas {
@@ -101,6 +103,7 @@ body {
 	color: #0e0027;
 	border-radius: 20px;
 	box-shadow: 0 6px 12px rgb(0, 0, 0, 0.2);
+	background-color: #0e0027;
 }
 
 .container .carta img {
@@ -112,10 +115,10 @@ body {
 	display: flex;
 	flex-direction: column;
 	gap: 10px;
-	background-color: #ffffff;
 	padding: 20px;
 	border-bottom-left-radius: 20px;
 	border-bottom-right-radius: 20px;
+	background-color: #ffffff
 }
 
 .container .carta .informacoes .nome-personagem {
@@ -127,6 +130,7 @@ body {
 .container .carta .informacoes .categoria {
 	color: #7e7e7e;
 	font-weight: 700;
+
 }
 
 .container .carta .informacoes .preco {
