@@ -16,8 +16,8 @@
     }
 
     .container .filtros .categoria-cartas,
-    .container- .filtros .preco-cartas,
-    .container .fitrols .btn-filtrar {
+    .container .filtros .preco-cartas,
+    .container .filtros .btn-filtrar {
         width: 65%;
     }
 
@@ -36,5 +36,6 @@
     .container .filtros .preco-cartas,
     .container .filtros .btn-filtrar {
         width: 100%;
+        
     }
 }
