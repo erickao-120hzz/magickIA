@@ -14,6 +14,8 @@ Projeto desenvolvido com foco em HTML, CSS e JavaScript puro, como parte do apre
 
 ![screenshot](./src/imagens/review.jpg)
 
+## URL: http://erickao-120hzz.github.io/magickIA
+
 ## 💻 Tecnologias
 
 - HTML5
